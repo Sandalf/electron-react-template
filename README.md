@@ -3,7 +3,7 @@ A minimal template for using react in electron apps.
 
 Features live reloading
 
-##Requirements
+###Requirements
 - [Node.js](https://nodejs.org/en/)
 - [Electron](http://electron.atom.io/)
 
